@@ -20,7 +20,10 @@ print(st + vt)
 # str("");
 
 
+newString = "Vaibhav";
+print(newString[0:9])
+print(newString[5])
+print (newString.upper())
 
-st = 11024;
-print(st)
-print(" asdfjbhasdhfajksdbncv ")
+lengstr =len(newString);
+print(lengstr)
