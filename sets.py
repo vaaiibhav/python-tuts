@@ -16,7 +16,7 @@ print (len(yesethogaya));
 #remove from a set
 
 yesethogaya.remove("Enticer");
-print (yesethogaya);
+print (yesethogaya);  
 
 #Discard from a set
 yesethogaya.discard("Avenger");
