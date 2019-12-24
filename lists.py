@@ -1,6 +1,9 @@
 hamariList =["Vaibhav",  "CSE", 14, 5.10, 54];
 print(hamariList);
 
+if 14 in hamariList:
+    print(14);
+
 
 print(hamariList[3]);
 
