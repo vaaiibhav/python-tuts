@@ -33,3 +33,8 @@ while(i<30):
 else:
     print(" is greater than 30");
 
+
+
+
+# 1 variable to print a table liek this 2x1=2  
+#                                       2x2=4
