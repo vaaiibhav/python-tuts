@@ -10,7 +10,7 @@ kuchtohaddKarna();
 
 
 
-kuchtohaddKarna(13,);
+kuchtohaddKarna(28);
 
 kuchtohaddKarna(1.054,1346);
 
