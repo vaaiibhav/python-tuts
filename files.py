@@ -64,7 +64,7 @@ print("My Directory : ",os.getcwd());
 ## List working Directories
 print(os.listdir())
 
-## Rename Working Directory
+## Rename a File
 fileText = "myPyfile.txt"
 os.rename(fileText,'myNewPyfile.txt') 
 
