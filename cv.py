@@ -3,7 +3,7 @@ import cv2
 
 while(True):
 
-    capture  = cv2.VideoCapture(0)
+    capture  = cv2.VideoCapture('video.np4')
 
     ret, frame = capture.read()
     cv2.imshow('Show Frame', frame);
